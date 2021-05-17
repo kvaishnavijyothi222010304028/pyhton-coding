@@ -1,2 +1,2 @@
 # pyhton-coding
-coding done on coding class
+coding done in coding class
